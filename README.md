@@ -2,9 +2,9 @@
 A beginner-friendly To-Do List mobile app built using React Native and Expo. It allows users to add and display goals in a list. 🚀
 
 ## 📌 Features
-✅ Add new goals
-✅ Display goals in a scrollable list
-✅ Simple and clean UI
+✅ Add new goals  
+✅ Display goals in a scrollable list  
+✅ Simple and clean UI  
 ✅ Built with React Native & Expo
 
 ## 🛠️ Installation
@@ -28,8 +28,8 @@ Then, scan the QR code using the Expo Go app (Android/iOS) or run it on an emula
 ```
 
 ## 📜 Usage
-Enter a goal in the text input field.
-Click the "Add" button to save it to the list.
+Enter a goal in the text input field.  
+Click the "Add" button to save it to the list.  
 View the list of added goals.
 
 ## 📷 Screenshot

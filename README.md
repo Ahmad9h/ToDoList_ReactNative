@@ -10,7 +10,8 @@ A beginner-friendly To-Do List mobile app built using React Native and Expo. It 
 ## 🛠️ Installation
 ### 1️⃣ Clone the repository
 
-```git clone https://github.com/Ahmad9h/ToDoList_ReactNative.git
+```
+git clone https://github.com/Ahmad9h/ToDoList_ReactNative.git
 cd react-native-todo
 ```
 
@@ -24,8 +25,8 @@ npm install
 
 ```
 npx expo start
-Then, scan the QR code using the Expo Go app (Android/iOS) or run it on an emulator.
 ```
+Then, scan the QR code using the Expo Go app (Android/iOS) or run it on an emulator.
 
 ## 📜 Usage
 Enter a goal in the text input field.  

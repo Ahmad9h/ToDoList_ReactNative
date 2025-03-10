@@ -33,9 +33,6 @@ Enter a goal in the text input field.
 Click the "Add" button to save it to the list.  
 View the list of added goals.
 
-## 📷 Screenshot
-(will be added later)
-
 ## 🤝 Contributing
 Feel free to fork the project and submit pull requests!
 

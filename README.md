@@ -12,7 +12,7 @@ A beginner-friendly To-Do List mobile app built using React Native and Expo. It 
 
 ```
 git clone https://github.com/Ahmad9h/ToDoList_ReactNative.git
-cd react-native-todo
+cd ToDoList_ReactNative
 ```
 
 ### 2️⃣ Install dependencies
